@@ -1,5 +1,0 @@
-Weclome
-Second line
-I added this line in the update-readme branch.
-Adding a line to create conflict
-It's cloudy outside today.
